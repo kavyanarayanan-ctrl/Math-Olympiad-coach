@@ -5,14 +5,35 @@ AI powered learning assistant for math practice.
 
 🔗 Repository: https://github.com/kavyanarayanan-ctrl/Math-Olympiad-coach
 
-Detailed description : To help my 4th grader practice for Math Olympiad (and keep things fun), I put together a Math Olympiad Coach using Relevance AI.
-Here’s what it does:
-*Creates Olympiad-style practice problems in topics like number sense, fractions, logic, and word problems.
-*Gives step-by-step hints before showing the answer, so he’s learning the process, not just memorizing.
-*Checks his work and gives kid-friendly feedback.
-*Wraps up each session with a quick summary of accuracy, timing, and areas to focus on.
+## Overview
+Math Olympiad Coach is an AI powered learning assistant that helps elementary and middle school students improve problem solving skills through personalized practice and coaching.
 
-With Relevance AI’s no-code platform, I was able to design problem generators, hint ladders, and performance summaries, essentially building a personalized Olympiad “coach” in just a few steps.
+## Problem
+Students preparing for competitive math programs often struggle to find personalized practice and timely feedback. Parents and educators have limited time to create targeted exercises.
 
-My son has already been using it and he not only enjoys it, but it is officially 4th grader approved ✅.
-For me, this wasn't just about experimenting with AI, but also about building something meaningful that supports curiosity and learning at home.
+## Users
+Elementary School Students
+Middle School Students
+Parents
+Math Coaches
+
+## Solution
+The platform generates customized math problems, provides guided hints and delivers performance insights to support skill development.
+
+## Features
+Personalized math practice
+Difficulty based question generation
+Step by step hint system
+Performance summaries
+Topic specific recommendations
+
+## AI Components
+AI generated problem creation
+Adaptive learning recommendations
+Performance analysis
+Personalized feedback
+
+## Tech Stack
+Relevance AI
+OpenAI
+Prompt Engineering
